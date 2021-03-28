@@ -31,7 +31,7 @@ au FocusLost * :wa              " Set vim to save the file on focus out.
 
 set fileformats=unix,dos,mac    " Prefer Unix over Windows over OS 9 formats
 
-set noshowmode                  " We show the mode with airline or lightline
+" set noshowmode                  " We show the mode with airline or lightline (plugins)
 set incsearch                   " Shows the match while typing
 set hlsearch                    " Highlight found searches
 set ignorecase                  " Search case insensitive...
